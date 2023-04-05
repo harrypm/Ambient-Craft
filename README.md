@@ -1,7 +1,16 @@
 # Ambient-Craft
 
-Ambient Craft Modpack from 2014 restoration project.
+## History
 
+Orignally started by the user `magnum_pu` the [Ambient Craft modpack](https://www.technicpack.net/modpack/ambient-craft-reloaded.281160) started from 2014-02-19 (?)
+
+The community used [`Direwolf20 (1.7) 1.0.1`](https://web.archive.org/web/20150215224027/http://www.ambientcraft.com:80/reloaded) when I joined and started to play.
+
+Then in late 2015~2016 Ambient Craft Reloaded was the final server pack of the community.
+
+I got busy with outher things and sadly the community like many simply disovled with no public archives.
+
+As such when I initally found archived files in 2017 I started the restoration project but never got around to properly fixing the pack.
 
 # Mod List 
 
